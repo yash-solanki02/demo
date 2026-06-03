@@ -1,4 +1,4 @@
 # demo
 first github
 <br>
-author Yash Solanki
+author Yash Solanki (student)
